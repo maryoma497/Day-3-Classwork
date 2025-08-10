@@ -1,0 +1,35 @@
+.content {
+    margin: 30px;
+    padding: 20px;
+    color: blueviolet;
+    background-color: rgb(247, 181, 233);
+    border: 4px;
+    border-color: purple;
+    border-style: double;
+}
+
+.contain {
+
+    background-color: rgb(236, 191, 137);
+    margin: 40px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+
+}
+
+#new {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+button {
+background-color: brown;
+width: 80px;
+height: 30px;
+
+}
